@@ -1,0 +1,11 @@
+print ("hello word")
+print("\t *****\n\t****\n\t***\n\t**\n\t*")
+
+mystring = "just do it!"
+print(mystring[10])
+print(mystring[5:7])
+print(mystring[7:])
+print(mystring[:4])
+print(mystring[5:10]+" don't") # space is also a character
+
+
